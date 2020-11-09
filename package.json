@@ -23,5 +23,8 @@
         "color": "#000000",
         "theme": "dark"
     },
-    "icon": "n.png"
+    "icon": "n.png",
+    "dependencies": {
+        "vsce": "^1.81.1"
+    }
 }

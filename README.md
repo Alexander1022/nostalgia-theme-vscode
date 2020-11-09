@@ -5,5 +5,6 @@
 
 ### Screenshots and other thing coming soon!
 * [GitHub](https://github.com/Alexander1022)
+* [Theme's GitHub Page](https://github.com/Alexander1022/nostalgia-theme-vscode)
 
 **Enjoy!**
