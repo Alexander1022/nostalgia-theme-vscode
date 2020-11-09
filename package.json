@@ -1,0 +1,27 @@
+{
+    "name": "nostalgia-theme",
+    "displayName": "nostalgia-theme",
+    "description": "Nostalgia is way better than ever.",
+    "publisher": "Alexander1022",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nostalgia Fresh",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nostalgia Fresh-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "icon": "n.png"
+}

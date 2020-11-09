@@ -1,4 +1,10 @@
-### nostalgia-theme-vscode
-#Nostalgia is way better than ever.
+# README
+## This is the README for theme "nostalgia-theme"
 
-#Visual Studio Code theme made by me.
+*Open Marketplace and install the theme.
+
+### Screenshots and other thing coming soon!
+* [GitHub](http://code.visualstudio.com/docs/languages/markdown)
+* 
+
+**Enjoy!**
