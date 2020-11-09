@@ -4,7 +4,6 @@
 *Open Marketplace and install the theme.
 
 ### Screenshots and other thing coming soon!
-* [GitHub](http://code.visualstudio.com/docs/languages/markdown)
-* 
+* [GitHub](https://github.com/Alexander1022)
 
 **Enjoy!**
